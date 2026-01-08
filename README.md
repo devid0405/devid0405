@@ -1,2 +1,1 @@
-I am an aspiring Analytics Engineer who is currently learning Microsoft Power BI (PL-300), dbt, AWS.
-My current projects are building models to optimize warehouse throughput and labor allocation.
+Aspiring Analytics Engineer with extensive experience in high-volume logistics at John Lewis. Currently leveraging a background in warehouse operations to build data models on GitHub that optimize pallet throughput, labor allocation, and spatial efficiency. Focused on translating complex physical workflows into actionable SQL-driven patterns to improve systematic productivity.
